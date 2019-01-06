@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alexandra Weisberg"
   avatar           : "profile.png"
-  bio              : "USDA NIFA Postdoctoral Fellow <a href=\"http://changlab.cgrb.oregonstate.edu/\">ChangLab</a>"
+  bio              : "USDA NIFA Postdoctoral Fellow"
   location         : "Oregon State University"
-  employer         : "http://changlab.cgrb.oregonstate.edu/"
+  employer         : "<a href=\"http://changlab.cgrb.oregonstate.edu/\">Jeff Chang Lab</a>"
   googlescholar    : "https://scholar.google.com/citations?user=PKhT3bMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
