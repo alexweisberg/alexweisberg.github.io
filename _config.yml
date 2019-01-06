@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "USDA NIFA Postdoctoral Fellow"
   location         : "Oregon State University"
-  employer         :
+  employer         : "http://changlab.cgrb.oregonstate.edu/"
   googlescholar    : "https://scholar.google.com/citations?user=PKhT3bMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
