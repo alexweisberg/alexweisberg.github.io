@@ -8,13 +8,4 @@ date: 2020-01-01
 location: "Corvallis, OR"
 ---
 
-I served as instructor of record for the undergraduate Biology major required course BI311 Genetics in the Winter 2020 quarter.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served as instructor of record for BI311 Genetics in the Winter 2020 quarter at Oregon State. This is a required course for undergraduate Biology majors, and there were 173 students enrolled. This class was in person except for the last week of class, which was hybrid in-person/online due to the onset of the COVID-19 pandemic.
