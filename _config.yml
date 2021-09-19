@@ -84,10 +84,10 @@ author:
   name             : "Alexandra Weisberg"
   avatar           : "ticircle.png"
   bio              : "Postdoctoral Researcher in plant/microbe interactions, evolution of mobile genetic elements, comparative/population genomics<br><a href=\"http://changlab.cgrb.oregonstate.edu/\">Jeff Chang Lab</a> &<br><a href=\"http://grunwaldlab.cgrb.oregonstate.edu/\">Nik Grunwald Lab</a>"
-  location         : "Oregon State University"
-  employer         : 
+  location         : "Corvallis, OR"
+  employer         : "Oregon State University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PKhT3bMAAAAJ&view_op=list_works&sortby=pubdate"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alexweisberg"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
