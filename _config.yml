@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Alexandra Weisberg"
+logo: "/images/tinetwork.png"
 title_separator          : "-"
 name                     : &name "Alexandra J Weisberg"
 description              : &description "Postdoctoral Researcher in plant/microbe interactions, evolution of mobile genetic elements, comparative/population genomics"
