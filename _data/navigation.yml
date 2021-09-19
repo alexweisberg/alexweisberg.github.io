@@ -5,21 +5,12 @@ main:
     
   - title: "CV"
     url: /cv/ 
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Outreach"
-    url: /outreach/
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/   
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
+  - title: "Teaching"
+    url: /teaching/    
 
-    
+  - title: "Contact"
+    url: /contact/
