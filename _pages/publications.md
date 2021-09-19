@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  The most current list of my publications is available on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  A current list of my publications is available on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
