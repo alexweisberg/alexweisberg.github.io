@@ -10,10 +10,8 @@ redirect_from:
 
 This is the front page.
 
-A data-driven personal website
+Research Interests
 ======
 Introductory paragraph
 
-Getting started
-======
-Other cool stuff
+
