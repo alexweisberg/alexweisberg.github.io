@@ -9,6 +9,8 @@ author_profile: true
   A current list of my publications is available on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+My full CV is also available for download [here](/files/WeisbergCV.pdf).
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
