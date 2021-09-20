@@ -1,6 +1,6 @@
 ---
 title: "Determinants of host range and MGEs"
-excerpt: "What determines the host range of a pathogen? What is the microbial host range of a MGE? <br/><img src='/images/visualabstract.png'>"
+excerpt: "What determines the host range of a pathogen? What increases or restricts the host range of a mobile genetic element? <br/><img src='/images/agromlsa.png'>"
 collection: portfolio
 ---
 
