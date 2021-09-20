@@ -10,6 +10,11 @@ Mobile genetic elements play an important role in many plant/microbe interaction
 
 Gene synteny network of Type Ib Ti plasmids, showing variation in gene content. Filled circles represent individual genes, while paths linking genes represent the sequence of individual plasmids, which may contain some but not all genes.
 
+What are the processes that diversify MGEs? How do they exchange loci with other elements and replicons? How do MGEs evolve and change over time?
+
+![T-DNA variation in gene content](/images/tdnasubway.png)
+
+
 Relevant publications
 ----
 Unexpected
