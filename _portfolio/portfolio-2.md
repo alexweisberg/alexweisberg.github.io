@@ -8,7 +8,7 @@ My research investigates the genomic epidemiology of diverse agricultural pathog
 
 
 Relevant publications
-#####
+----
 Unexpected conservation
 
 Genomic epidemiology
