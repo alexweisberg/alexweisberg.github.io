@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Evolution of mobile genetic elements"
+excerpt: "Characterizing the evolution of mobile genetic elements involved in plant/microbe interactions and symbioses.<br/><img src='/images/plasmidnetwork.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Mobile genetic elements play an important role in many plant/microbe interactions, as well as in human disease, such as antibiotic resistance. MGEs are selfish genetic elements that can recombine as well as transmit horizontally between strains, making understanding their evolution and epidemiology difficult. 
