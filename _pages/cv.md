@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available for download in pdf format here.
+My CV is available for download [here](/files/WeisbergCV.pdf).
