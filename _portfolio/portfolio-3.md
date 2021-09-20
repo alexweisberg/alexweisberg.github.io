@@ -9,7 +9,7 @@ Microbial pathogens (and mutualist symbionts) often have a restricted range of h
 ![Minimum spanning network of phytopathogenic RHodococcus](/images/agrorhodoplasmids.png)
 Diversity of plasmids in the agrobacteria/rhizobia complex
 
-Mobile genetic elements may also be restricted to specific taxonomic groups or lineages of microbes in which they can persist. 
+Mobile genetic elements may also be restricted to specific taxonomic groups or lineages of microbes in which they can persist. What restricts the host range of a MGE? 
 
 Relevant publications
 ---
