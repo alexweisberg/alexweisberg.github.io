@@ -16,4 +16,4 @@ Relevant publications
 
 Weisberg, AJ, Kramer CG, Kotha RR, Luthria DL, Chang JH, and Clarke CR. “A novel species-level group of *Streptomyces* exhibits variation in phytopathogenicity despite conservation of virulence loci.” Molecular Plant-Microbe Interactions 34, no. 1 (January 1, 2021): 39–48. https://doi.org/10/gmwnv6.
 
-Weisberg A.J., Miller M., Ream W., Grunwald N.J., and Chang J.H. ”Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria” in press. Philosophical Transactions B special issue ”The secret lives of microbial mobile genetic elements.” DOI: 10.1098/rstb.2020.0466
+Weisberg AJ, Miller M, Ream W, Grunwald NJ, and Chang JH. ”Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria” in press. Philosophical Transactions B special issue ”The secret lives of microbial mobile genetic elements.” DOI: 10.1098/rstb.2020.0466
