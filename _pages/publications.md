@@ -25,6 +25,24 @@ J. H. (2021). Genomic approaches to plant-pathogen epidemiology and
 diagnostics. *Annual Review of Phytopathology*, *59*.
 <https://doi.org/10.1146/annurev-phyto-020620-121736>
 
+Weisberg, A. J., Davis, E. W., Tabima, J., Belcher, M. S., Miller, M.,
+Kuo, C.-H., Loper, J. E., Grünwald, N. J., Putnam, M. L., & Chang, J. H.
+(2020). Unexpected conservation and global transmission of agrobacterial
+virulence plasmids. *Science*, *368*(6495).
+<https://doi.org/10.1126/science.aba5256>
+
+Savory, E. A., Weisberg, A. J., Stevens, D. M., Creason, A. L., Fuller,
+S. L., Pearce, E. M., & Chang, J. H. (2020). Phytopathogenic
+*rhodococcus* have diverse plasmids with few conserved virulence
+functions. *Frontiers in Microbiology*, *11*, 1022.
+<https://doi.org/10.3389/fmicb.2020.01022>
+
+Weisberg, A. J., Kramer, C. G., Kotha, R. R., Luthria, D. L., Chang, J.
+H., & Clarke, C. R. (2020). A novel species-level group of
+*streptomyces* exhibits variation in phytopathogenicity despite
+conservation of virulence loci. *Molecular Plant-Microbe Interactions*,
+MPMI–06. <https://doi.org/10.1094/MPMI-06-20-0164-R>
+
 Savory, E. A., Fuller, S. L., Weisberg, A. J., Thomas, W. J., Gordon, M.
 I., Stevens, D. M., Creason, A. L., Belcher, M. S., Serdani, M.,
 Wiseman, M. S., Grünwald, N. J., Putnam, M. L., & Chang, J. H. (2017).
@@ -32,13 +50,77 @@ Evolutionary transitions between beneficial and phytopathogenic
 *rhodococcus* challenge disease management. *eLife*, *6*, e30925.
 <https://doi.org/10.7554/elife.30925>
 
+Weisberg, A. J., Kim, G., Westwood, J. H., & Jelesko, J. G. (2017).
+Sequencing and *de novo* assembly of the *toxicodendron radicans*
+(poison ivy) transcriptome. *Genes*, *8*(11), 317.
+<https://doi.org/10.3390/genes8110317>
+
 Davis II, E. W., Weisberg, A. J., Tabima, J. F., Grünwald, N. J., &
 Chang, J. H. (2016). Gall-ID: Tools for genotyping gall-causing
 phytopathogenic bacteria. *PeerJ*, *4*, e2222.
 <https://doi.org/10.7717/peerj.2222>
 
+Weisberg, A. J., Elmarakeby, H. A., Heath, L. S., & Vinatzer, B. A.
+(2015). Similarity-based codes sequentially assigned to ebolavirus
+genomes are informative of species membership, associated outbreaks, and
+transmission chains. *Open Forum Infectious Diseases*, *2*, ofv024.
+<https://doi.org/10.1093/ofid/ofv024>
+
 Co-Author Publications
 ---
+
+Wu, C.-F., Weisberg, A. J., Davis, E. W., Chou, L., Khan, S., Lai,
+E.-M., Kuo, C.-H., & Chang, J. H. (2021). Diversification of the type VI
+secretion system in agrobacteria. *mBio*, *12*(5), e01927–21.
+<https://doi.org/10.1128/mBio.01927-21>
+
+Quides, K. W., Weisberg, A. J., Trinh, J., Salaheldine, F., Cardenas,
+P., Lee, H.-H., Jariwala, R., Chang, J. H., & Sachs, J. L. (2021).
+Experimental evolution can enhance benefits of rhizobia to novel legume
+hosts. *Proceedings of the Royal Society B*, *288*(1951), 20210812.
+<https://doi.org/10.1098/rspb.2021.0812>
+
+Torres-Martı́nez, L., Porter, S. S., Wendlandt, C., Purcell, J.,
+Ortiz-Barbosa, G., Rothschild, J., Lampe, M., Warisha, F., Le, T.,
+Weisberg, A. J., Chang, J. H., & Sachs, J. L. (2021). Evolution of
+specialization in a plant-microbial mutualism is explained by the
+oscillation theory of speciation. *Evolution*, *75*(5), 1070–1086.
+<https://doi.org/10.1111/evo.14222>
+
+Nofiani, R., Weisberg, A. J., Tsunoda, T., Panjaitan, R. G. P.,
+Brilliantoro, R., Chang, J. H., Philmus, B., & Mahmud, T. (2020).
+Antibacterial <span class="nocase">potential</span> of <span
+class="nocase">secondary</span> <span class="nocase">metabolites</span>
+from Indonesian <span class="nocase">marine</span> <span
+class="nocase">bacterial</span> <span class="nocase">symbionts</span>.
+*International Journal of Microbiology*, *2020*.
+<https://doi.org/10.1155/2020/8898631>
+
+Turner, S. E., Pang, Y.-Y., O’Malley, M. R., Weisberg, A. J., Fraser, V.
+N., Yan, Q., Chang, J. H., & Anderson, J. C. (2020). A <span
+class="nocase">deoR</span>-<span class="nocase">type</span> <span
+class="nocase">transcription</span> <span
+class="nocase">regulator</span> <span class="nocase">is</span> <span
+class="nocase">required</span> for <span
+class="nocase">sugar</span>-<span class="nocase">induced</span> <span
+class="nocase">expression</span> of Type III <span
+class="nocase">secretion</span>-<span class="nocase">encoding</span>
+<span class="nocase">genes</span> in *pseudomonas syringae* pv. Tomato
+DC3000. *Molecular Plant-Microbe Interactions*, *33*(3), 509–518.
+<https://doi.org/10.1094/mpmi-10-19-0290-r>
+
+Vasebi, Y., Khakvar, R., Tian, L., Moubarak, P., Valentini, F.,
+Weisberg, A. J., & Vinatzer, B. A. (2020). Phenotypic characterization
+and phylogenetic analysis of *pseudomonas syringae* strains associated
+with canker disease on apricot in iran within the context of the global
+genetic diversity of the *p. Syringae* complex. *European Journal of
+Plant Pathology*, *158*, 545–560.
+<https://doi.org/10.1007/s10658-020-02101-x>
+
+Zhou, W., Posri, P., Abugrain, M. E., Weisberg, A. J., Chang, J. H., &
+Mahmud, T. (2020). Biosynthesis of the nuclear factor of activated t
+cells inhibitor NFAT-133 in *streptomyces pactum*. *ACS Chemical
+Biology*. <https://doi.org/10.1021/acschembio.0c00775>
 
 Gano-Cohen, K. A., Wendlandt, C. E., Al Moussawi, K., Stokes, P. J.,
 Quides, K. W., Weisberg, A. J., Chang, J. H., & Sachs, J. L. (2020).
@@ -139,11 +221,6 @@ affiliation applied to *pseudomonas syringae* sensu lato as a proof of
 concept. *Phytopathology*, *107*(1), 18–28.
 <https://doi.org/10.1094/phyto-07-16-0252-r>
 
-Weisberg, A. J., Kim, G., Westwood, J. H., & Jelesko, J. G. (2017).
-Sequencing and *de novo* assembly of the *toxicodendron radicans*
-(poison ivy) transcriptome. *Genes*, *8*(11), 317.
-<https://doi.org/10.3390/genes8110317>
-
 Tabima, J. F., Everhart, S. E., Larsen, M. M., Weisberg, A. J., Kamvar,
 Z. N., Tancos, M. A., Smart, C. D., Chang, J. H., & Grünwald, N. J.
 (2016). Microbe-ID: An open source toolbox for microbial genotyping and
@@ -158,86 +235,9 @@ screening for sources of resistance against its core effectors.
 *Phytopathology*, *105*(5), 597–607.
 <https://doi.org/10.1094/phyto-12-14-0373-r>
 
-Weisberg, A. J., Elmarakeby, H. A., Heath, L. S., & Vinatzer, B. A.
-(2015). Similarity-based codes sequentially assigned to ebolavirus
-genomes are informative of species membership, associated outbreaks, and
-transmission chains. *Open Forum Infectious Diseases*, *2*, ofv024.
-<https://doi.org/10.1093/ofid/ofv024>
-
 Dornfeld, C., Weisberg, A. J., KC, R., Dudareva, N., Jelesko, J. G., &
 Maeda, H. A. (2014). Phylobiochemical characterization of class-Ib
 aspartate/prephenate aminotransferases reveals evolution of the plant
 arogenate phenylalanine pathway. *Plant Cell*, *26*(7), 3101–3114.
 <https://doi.org/10.1105/tpc.114.127407>
-
-Wu, C.-F., Weisberg, A. J., Davis, E. W., Chou, L., Khan, S., Lai,
-E.-M., Kuo, C.-H., & Chang, J. H. (2021). Diversification of the type VI
-secretion system in agrobacteria. *mBio*, *12*(5), e01927–21.
-<https://doi.org/10.1128/mBio.01927-21>
-
-Weisberg, A. J., Davis, E. W., Tabima, J., Belcher, M. S., Miller, M.,
-Kuo, C.-H., Loper, J. E., Grünwald, N. J., Putnam, M. L., & Chang, J. H.
-(2020). Unexpected conservation and global transmission of agrobacterial
-virulence plasmids. *Science*, *368*(6495).
-<https://doi.org/10.1126/science.aba5256>
-
-Quides, K. W., Weisberg, A. J., Trinh, J., Salaheldine, F., Cardenas,
-P., Lee, H.-H., Jariwala, R., Chang, J. H., & Sachs, J. L. (2021).
-Experimental evolution can enhance benefits of rhizobia to novel legume
-hosts. *Proceedings of the Royal Society B*, *288*(1951), 20210812.
-<https://doi.org/10.1098/rspb.2021.0812>
-
-Nofiani, R., Weisberg, A. J., Tsunoda, T., Panjaitan, R. G. P.,
-Brilliantoro, R., Chang, J. H., Philmus, B., & Mahmud, T. (2020).
-Antibacterial <span class="nocase">potential</span> of <span
-class="nocase">secondary</span> <span class="nocase">metabolites</span>
-from Indonesian <span class="nocase">marine</span> <span
-class="nocase">bacterial</span> <span class="nocase">symbionts</span>.
-*International Journal of Microbiology*, *2020*.
-<https://doi.org/10.1155/2020/8898631>
-
-Turner, S. E., Pang, Y.-Y., O’Malley, M. R., Weisberg, A. J., Fraser, V.
-N., Yan, Q., Chang, J. H., & Anderson, J. C. (2020). A <span
-class="nocase">deoR</span>-<span class="nocase">type</span> <span
-class="nocase">transcription</span> <span
-class="nocase">regulator</span> <span class="nocase">is</span> <span
-class="nocase">required</span> for <span
-class="nocase">sugar</span>-<span class="nocase">induced</span> <span
-class="nocase">expression</span> of Type III <span
-class="nocase">secretion</span>-<span class="nocase">encoding</span>
-<span class="nocase">genes</span> in *pseudomonas syringae* pv. Tomato
-DC3000. *Molecular Plant-Microbe Interactions*, *33*(3), 509–518.
-<https://doi.org/10.1094/mpmi-10-19-0290-r>
-
-Vasebi, Y., Khakvar, R., Tian, L., Moubarak, P., Valentini, F.,
-Weisberg, A. J., & Vinatzer, B. A. (2020). Phenotypic characterization
-and phylogenetic analysis of *pseudomonas syringae* strains associated
-with canker disease on apricot in iran within the context of the global
-genetic diversity of the *p. Syringae* complex. *European Journal of
-Plant Pathology*, *158*, 545–560.
-<https://doi.org/10.1007/s10658-020-02101-x>
-
-Weisberg, A. J., Kramer, C. G., Kotha, R. R., Luthria, D. L., Chang, J.
-H., & Clarke, C. R. (2020). A novel species-level group of
-*streptomyces* exhibits variation in phytopathogenicity despite
-conservation of virulence loci. *Molecular Plant-Microbe Interactions*,
-MPMI–06. <https://doi.org/10.1094/MPMI-06-20-0164-R>
-
-Zhou, W., Posri, P., Abugrain, M. E., Weisberg, A. J., Chang, J. H., &
-Mahmud, T. (2020). Biosynthesis of the nuclear factor of activated t
-cells inhibitor NFAT-133 in *streptomyces pactum*. *ACS Chemical
-Biology*. <https://doi.org/10.1021/acschembio.0c00775>
-
-Torres-Martı́nez, L., Porter, S. S., Wendlandt, C., Purcell, J.,
-Ortiz-Barbosa, G., Rothschild, J., Lampe, M., Warisha, F., Le, T.,
-Weisberg, A. J., Chang, J. H., & Sachs, J. L. (2021). Evolution of
-specialization in a plant-microbial mutualism is explained by the
-oscillation theory of speciation. *Evolution*, *75*(5), 1070–1086.
-<https://doi.org/10.1111/evo.14222>
-
-Savory, E. A., Weisberg, A. J., Stevens, D. M., Creason, A. L., Fuller,
-S. L., Pearce, E. M., & Chang, J. H. (2020). Phytopathogenic
-*rhodococcus* have diverse plasmids with few conserved virulence
-functions. *Frontiers in Microbiology*, *11*, 1022.
-<https://doi.org/10.3389/fmicb.2020.01022>
 
