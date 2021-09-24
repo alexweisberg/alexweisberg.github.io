@@ -24,4 +24,6 @@ Weisberg AJ, Grünwald NJ, Savory EA, Putnam ML, and Chang JH. “Genomic approa
 
 Weisberg AJ, Davis EW, Tabima J, Belcher MS, Miller M, Kuo CH, Loper JE, Grünwald NJ, Putnam ML, and Chang JH. “Unexpected conservation and global transmission of agrobacterial virulence plasmids.” Science 368, no. 6495 (2020): eaba5256. https://doi.org/10.1126/science.aba5256.
 
-Savory, EA*, Fuller SL*, Weisberg AJ*, Thomas WJ, Gordon MI, Stevens DM, Creason AL, Belcher MS, Serdani M, Wiseman MS, Grünwald NJ, Putnam ML, and Chang JH. “Evolutionary transitions between beneficial and phytopathogenic *Rhodococcus* challenge disease management.” ELife 6 (2017): e30925. https://doi.org/10.7554/elife.30925.
+Savory, EA\*, Fuller SL\*, Weisberg AJ\*, Thomas WJ, Gordon MI, Stevens DM, Creason AL, Belcher MS, Serdani M, Wiseman MS, Grünwald NJ, Putnam ML, and Chang JH. “Evolutionary transitions between beneficial and phytopathogenic *Rhodococcus* challenge disease management.” ELife 6 (2017): e30925. https://doi.org/10.7554/elife.30925.
+
+\*co-first authors
