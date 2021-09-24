@@ -241,3 +241,19 @@ aspartate/prephenate aminotransferases reveals evolution of the plant
 arogenate phenylalanine pathway. *Plant Cell*, *26*(7), 3101–3114.
 <https://doi.org/10.1105/tpc.114.127407>
 
+Manuscripts in press or in preparation
+---
+
+”Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria” Weisberg A.J., Miller M., Ream W., Grunwald N.J., and Chang J.H. in press. Philosophical Transactions B special issue ”The secret lives of microbial mobile genetic elements.”
+
+”Pangenome evolution reconciles robustness and instability of symbioses” Weisberg A.J., Rahman A., Backus D., Tyavanagimatt P., Chang J.H., Sachs J.L. manuscript in prep.
+
+”Dynamic interactions between mega-sized symbiosis integrative and conjugative elements and bacterial chromosomes” Weisberg A.J., Sachs J.L., Chang J.H. manuscript in prep.
+
+”Streptomyces canutascabiei sp. nov., which causes potato common scab and is distributed across the world” Clarke C., Nguyen H.P., Weisberg A.J., Chang J.H. submitted to IJSEM.
+
+”Dual Adhesive Unipolar Polysaccharides Synthesized by Overlapping Biosynthetic Pathways in *Agrobacterium* *tumefaciens*” Onyeziri M.C., Natarajan R., Hardy G.G., Xu J., Reynolds I.P., Kim J., Merritt P.M., Danhorn T., Hibbing M.E., Weisberg A.J., Chang J.H., Fuqua C. Preprint available at <https://www.biorxiv.org/content/10.1101/2021.04.22.440995v1>
+
+”Modular evolution of secretion systems and virulence plasmids in a bacterial species complex” Chou L., Lin Y.C., Haryono M., Santos M.N.M., Cho S.T., Weisberg A.J., Wu C.F., Chang J.H., Lai E.M, Kuo C.H. Preprint <https://www.biorxiv.org/content/10.1101/2021.05.20.444927v2>
+
+Plus two additional manuscripts in preparation.
