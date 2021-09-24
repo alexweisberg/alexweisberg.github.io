@@ -18,8 +18,9 @@ This work required developing methods to infer the epidemiology and movement of 
 Relevant publications
 ----
 
-Genomic Approaches to Plant-Pathogen Epidemiology and Diagnostics. 2021. Weisberg AJ, Grünwald NJ, Savory EA, Putnam ML, Chang JH. Annual Review of Phytopathology 59
+Weisberg AJ, Grünwald NJ, Savory EA, Putnam ML, and Chang JH. “Genomic approaches to plant-pathogen epidemiology and diagnostics.” Annual Review of Phytopathology 59, no. 1 (2021). https://doi.org/10.1146/annurev-phyto-020620-121736.
 
-Unexpected conservation and global transmission of agrobacterial virulence plasmids. 2020. AJ Weisberg, EW Davis, J Tabima, MS Belcher, M Miller, CH Kuo, ... Science 368 (6495)
 
-Evolutionary transitions between beneficial and phytopathogenic Rhodococcus challenge disease management. 2017. EA Savory, SL Fuller, AJ Weisberg, WJ Thomas, MI Gordon, DM Stevens, ... Elife 6, e30925
+Weisberg AJ, Davis EW, Tabima J, Belcher MS, Miller M, Kuo CH, Loper JE, Grünwald NJ, Putnam ML, and Chang JH. “Unexpected conservation and global transmission of agrobacterial virulence plasmids.” Science 368, no. 6495 (2020): eaba5256. https://doi.org/10.1126/science.aba5256.
+
+Savory, EA*, Fuller SL*, Weisberg AJ*, Thomas WJ, Gordon MI, Stevens DM, Creason AL, Belcher MS, Serdani M, Wiseman MS, Grünwald NJ, Putnam ML, and Chang JH. “Evolutionary transitions between beneficial and phytopathogenic *Rhodococcus* challenge disease management.” ELife 6 (2017): e30925. https://doi.org/10.7554/elife.30925.
