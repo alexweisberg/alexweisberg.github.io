@@ -14,6 +14,7 @@ We developed a pipeline that incorporates a phylogenomic framework for accurate 
 This work required developing methods to infer the epidemiology and movement of mobile genetic elements independent of their microbial hosts.
 
 ![Agrobacterium epidemiology](/images/plasmidstrainepi.png)
+Epidemiological network linking oncogenic plasmid variants (circles) with *Agrobacterium* chromosomal genotypes (squares)
 
 Relevant publications
 ----
