@@ -19,9 +19,8 @@ Relevant publications
 ----
 Weisberg, AJ, Davis EW, Tabima J, Belcher MS, Miller M, Kuo CH, Loper JE, Grünwald NJ, Putnam ML, and Chang JH. “Unexpected conservation and global transmission of agrobacterial virulence plasmids.” Science 368, no. 6495 (2020): eaba5256. https://doi.org/10.1126/science.aba5256.
 
+Elife
 
-Rhodo elife
-
-Rhodo other plasmids
+Savory, EA*, Weisberg AJ*, Stevens DM, Creason AL, Fuller SL, Pearce EM, and Chang JH. “Phytopathogenic *Rhodococcus* Have diverse plasmids with few conserved virulence functions.” Frontiers in Microbiology 11 (2020): 1022. https://doi.org/10.3389/fmicb.2020.01022.
 
 Streptomyces
