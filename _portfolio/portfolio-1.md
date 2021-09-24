@@ -13,11 +13,12 @@ Gene synteny network of Type Ib Ti plasmids, showing variation in gene content. 
 What are the processes that diversify MGEs? How do they exchange loci with other elements and replicons? How do MGEs evolve and change over time?
 
 ![T-DNA variation in gene content](/images/tdnasubway.png)
-
+Variation in gene content of T-DNA regions in agrobacteria Ti and Ri plasmids.
 
 Relevant publications
 ----
-Unexpected
+Weisberg, AJ, Davis EW, Tabima J, Belcher MS, Miller M, Kuo CH, Loper JE, Grünwald NJ, Putnam ML, and Chang JH. “Unexpected conservation and global transmission of agrobacterial virulence plasmids.” Science 368, no. 6495 (2020): eaba5256. https://doi.org/10.1126/science.aba5256.
+
 
 Rhodo elife
 
