@@ -25,5 +25,5 @@ Savory, EA\*, Weisberg AJ\*, Stevens DM, Creason AL, Fuller SL, Pearce EM, and C
 
 \*co-first authors
 
-Weisberg, AJ, Kramer CG, Kotha RR, Luthria DL, Chang JH, and Clarke CR. “A novel species-level group of *Streptomyces* exhibits variation in phytopathogenicity despite conservation of virulence loci.” Molecular Plant-Microbe Interactions 34, no. 1 (January 1, 2021): 39–48. https://doi.org/10/gmwnv6.
+Weisberg, AJ, Kramer CG, Kotha RR, Luthria DL, Chang JH, and Clarke CR. “A novel species-level group of *Streptomyces* exhibits variation in phytopathogenicity despite conservation of virulence loci.” Molecular Plant-Microbe Interactions 34, no. 1 (2021): 39–48. https://doi.org/10/gmwnv6.
 
