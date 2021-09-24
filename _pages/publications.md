@@ -31,7 +31,7 @@ Kuo, C.-H., Loper, J. E., Grünwald, N. J., Putnam, M. L., & Chang, J. H.
 virulence plasmids. *Science*, *368*(6495).
 <https://doi.org/10.1126/science.aba5256>
 
-Savory, E. A., Weisberg, A. J., Stevens, D. M., Creason, A. L., Fuller,
+Savory, E. A.\*, Weisberg, A. J.\*, Stevens, D. M., Creason, A. L., Fuller,
 S. L., Pearce, E. M., & Chang, J. H. (2020). Phytopathogenic
 *rhodococcus* have diverse plasmids with few conserved virulence
 functions. *Frontiers in Microbiology*, *11*, 1022.
@@ -43,7 +43,7 @@ H., & Clarke, C. R. (2020). A novel species-level group of
 conservation of virulence loci. *Molecular Plant-Microbe Interactions*,
 MPMI–06. <https://doi.org/10.1094/MPMI-06-20-0164-R>
 
-Savory, E. A., Fuller, S. L., Weisberg, A. J., Thomas, W. J., Gordon, M.
+Savory, E. A.\*, Fuller, S. L.\*, Weisberg, A. J.\*, Thomas, W. J., Gordon, M.
 I., Stevens, D. M., Creason, A. L., Belcher, M. S., Serdani, M.,
 Wiseman, M. S., Grünwald, N. J., Putnam, M. L., & Chang, J. H. (2017).
 Evolutionary transitions between beneficial and phytopathogenic
@@ -55,7 +55,7 @@ Sequencing and *de novo* assembly of the *toxicodendron radicans*
 (poison ivy) transcriptome. *Genes*, *8*(11), 317.
 <https://doi.org/10.3390/genes8110317>
 
-Davis II, E. W., Weisberg, A. J., Tabima, J. F., Grünwald, N. J., &
+Davis II, E. W.\*, Weisberg, A. J.\*, Tabima, J. F., Grünwald, N. J., &
 Chang, J. H. (2016). Gall-ID: Tools for genotyping gall-causing
 phytopathogenic bacteria. *PeerJ*, *4*, e2222.
 <https://doi.org/10.7717/peerj.2222>
