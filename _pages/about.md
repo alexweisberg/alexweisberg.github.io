@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational evolutionary and molecular biologist with an interdisciplinary research focus, interested in broad questions of molecular evolution as well as working to address major problems in agriculture and ecological systems. I am currently a postdoctoral researcher in the Chang lab at Oregon State University.
+I am an evolutionary and molecular biologist with an interdisciplinary research focus, interested in broad questions of molecular evolution as well as working to address major problems in agriculture and ecological systems. I am currently a postdoctoral researcher in the Chang lab at Oregon State University.
 
 Research Interests
 ======
