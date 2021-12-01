@@ -15,4 +15,4 @@ Research Interests
 My research interests focus on the evolution and epidemiology of mobile genetic elements (MGEs) and their influence on microbial symbioses (pathogens and/or mutualist symbionts). I utilize comparative and population genomics of large datasets to classify and characterize the evolution of MGEs in diverse systems, primarily agricultural phytopathogens, as well as in nitrogen fixation symbiosis. I also work to develop pipelines for the epidemiology of major agricultural pathogens, including those that incorporate the movement of MGEs independently of strains. 
 
 ![Network of plasmids in agrobacteria and rhizobia](/images/agrorhodoplasmids.png)
-Classification of plasmids in the agrobacteria/rhizobia complex. In press. DOI: 10.1098/rstb.2020.0466
+Classification of plasmids in the agrobacteria/rhizobia complex. Weisberg et al., 2021. [DOI: 10.1098/rstb.2020.0466](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0466)
