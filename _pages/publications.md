@@ -19,6 +19,7 @@ My full CV is also available for download [here](/files/WeisbergCV.pdf).
 
 First Author Publications
 ---
+Weisberg A.J., Miller M., Ream W., Grünwald N., & Chang J.H. (2021). Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria. *Philosophical Transactions of the Royal Society B*, *377* 1842 p20200466 <https://doi.org/10.1098/rstb.2020.0466> 
 
 Weisberg, A. J., Grünwald, N. J., Savory, E. A., Putnam, M. L., & Chang,
 J. H. (2021). Genomic approaches to plant-pathogen epidemiology and
@@ -68,6 +69,8 @@ transmission chains. *Open Forum Infectious Diseases*, *2*, ofv024.
 
 Co-Author Publications
 ---
+
+
 
 Wu, C.-F., Weisberg, A. J., Davis, E. W., Chou, L., Khan, S., Lai,
 E.-M., Kuo, C.-H., & Chang, J. H. (2021). Diversification of the type VI
