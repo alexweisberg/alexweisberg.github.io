@@ -17,6 +17,8 @@ Variation in gene content of T-DNA regions in agrobacteria Ti and Ri plasmids.
 
 Relevant publications
 ----
+Weisberg AJ, Rahman A, Backus D, Tyavanagimatt P, Chang JH, and Sachs JL. "Pangenome Evolution Reconciles Robustness and Instability of Rhizobial Symbiosis" mBio (2022): ahead of print. https://doi.org/10.1128/mbio.00074-22
+
 Weisberg AJ, Davis EW, Tabima J, Belcher MS, Miller M, Kuo CH, Loper JE, Grünwald NJ, Putnam ML, and Chang JH. “Unexpected conservation and global transmission of agrobacterial virulence plasmids.” Science 368, no. 6495 (2020): eaba5256. https://doi.org/10.1126/science.aba5256.
 
 Savory EW\*, Fuller SL\*, Weisberg AJ\*, Thomas WJ, Gordon MI, Stevens DM, Creason AL, Belcher MS, Serdani M, Wiseman MS, Grünwald NJ, Putnam ML, and Chang JH. “Evolutionary transitions between beneficial and phytopathogenic *Rhodococcus* challenge disease management.” ELife 6 (2017): e30925. https://doi.org/10.7554/elife.30925.
