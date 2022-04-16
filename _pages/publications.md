@@ -19,7 +19,7 @@ My full CV is also available for download [here](/files/WeisbergCV.pdf).
 
 First Author Publications
 ---
-Weisberg A.J., Rahman A., Backus D., Tyavanagimatt P., Chang J.H., and Sachs J.L. (2022) Pangenome Evolution Reconciles Robustness and Instability of Rhizobial Symbiosis *mBio* ahead of print. https://doi.org/10.1128/mbio.00074-22
+Weisberg A.J., Rahman A., Backus D., Tyavanagimatt P., Chang J.H., and Sachs J.L. (2022) Pangenome evolution reconciles robustness and instability of rhizobial symbiosis. *mBio* ahead of print. https://doi.org/10.1128/mbio.00074-22
 
 Weisberg A.J., Miller M., Ream W., Grünwald N., & Chang J.H. (2021). Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria. *Philosophical Transactions of the Royal Society B*, *377*(1842), p20200466 <https://doi.org/10.1098/rstb.2020.0466> 
 
@@ -71,9 +71,9 @@ transmission chains. *Open Forum Infectious Diseases*, *2*, ofv024.
 
 Co-Author Publications
 ---
-Chou L., Lin Y.C., Haryono M., Santos M.N.M., Cho S.T., Weisberg A.J., Wu C.F., Chang J.H., Lai E.M., and Kuo C.H. (2022). Modular evolution of secretion systems and virulence plasmids in a bacterial species complex. *BMC biology* 20 (1), 1-20 1
+Chou L., Lin Y.C., Haryono M., Santos M.N.M., Cho S.T., Weisberg A.J., Wu C.F., Chang J.H., Lai E.M., and Kuo C.H. (2022). Modular evolution of secretion systems and virulence plasmids in a bacterial species complex. *BMC biology* 20 article 16. <https://doi.org/10.1186/s12915-021-01221-y>
 
-Nguyen H.P., Weisberg A.J., Chang J.H., and Clarke C.R.. *Streptomyces caniscabiei* sp. nov., which causes potato common scab and is distributed across the world. *International Journal of Systematic and Evolutionary Microbiology* 72 (1), 005225
+Nguyen H.P., Weisberg A.J., Chang J.H., and Clarke C.R.. *Streptomyces caniscabiei* sp. nov., which causes potato common scab and is distributed across the world. *International Journal of Systematic and Evolutionary Microbiology* 72 (1), 005225 <https://doi.org/10.1099/ijsem.0.005225>
 
 Bland R.N., Johnson J.D., Waite-Cusic J.G., Weisberg A.J., Riutta E.R., Chang J.H., Kovacevic J. (2021). Application of whole genome sequencing to understand diversity and presence of genes associated with sanitizer tolerance in *Listeria monocytogenes* from produce handling sources. *Foods* 10.10 p. 2454. <https://doi.org/10.3390/foods10102454>
 
