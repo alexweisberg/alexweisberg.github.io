@@ -19,7 +19,7 @@ My full CV is also available for download [here](/files/WeisbergCV.pdf).
 
 First Author Publications
 ---
-Weisberg A.J., Rahman A., Backus D., Tyavanagimatt P., Chang J.H., and Sachs J.L. (2022) Pangenome evolution reconciles robustness and instability of rhizobial symbiosis. *mBio* ahead of print. https://doi.org/10.1128/mbio.00074-22
+Weisberg A.J., Rahman A., Backus D., Tyavanagimatt P., Chang J.H., and Sachs J.L. (2022) Pangenome evolution reconciles robustness and instability of rhizobial symbiosis. *mBio* ahead of print. <https://doi.org/10.1128/mbio.00074-22>
 
 Weisberg A.J., Miller M., Ream W., Grünwald N., & Chang J.H. (2021). Diversification of plasmids in a genus of pathogenic and nitrogen-fixing bacteria. *Philosophical Transactions of the Royal Society B*, *377*(1842), p20200466 <https://doi.org/10.1098/rstb.2020.0466> 
 
@@ -212,7 +212,7 @@ class="nocase">amplification</span> and <span
 class="nocase">lateral</span>-<span class="nocase">flow</span> <span
 class="nocase">assay</span> for <span class="nocase">detecting</span>
 <span class="nocase">crown</span>-<span class="nocase">gall</span>-<span
-class="nocase">causing</span> *agrobacterium* spp. *Phytopathology*,
+class="nocase">causing</span> *Agrobacterium* spp. *Phytopathology*,
 *107*(9), 1062–1068. <https://doi.org/10.1094/phyto-04-17-0144-r>
 
 Moore, E. R., Bullington, B. S., Weisberg, A. J., Jiang, Y., Chang, J.,
